@@ -29,4 +29,4 @@ Step 3: Define Computational Thinking Approaches
 ![Table](TABLE.jpeg)
 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
-![Pseudocode](PSEUDOCODE.jpeg)   
+  
